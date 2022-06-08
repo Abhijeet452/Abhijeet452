@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Abhi Singh</h1>
-<h3 align="center">A passionate MERN developer and Competitive Coder from India</h3>
+<h3 align="center">A passionate MERN developer and Competitive Coder</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🌱 I’m currently learning **MERN Stack**
